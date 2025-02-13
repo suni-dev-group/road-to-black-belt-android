@@ -96,3 +96,4 @@ lint/tmp/
 
 # Windows clutter
 Thumbs.db
+workspace/app/google-services.json
